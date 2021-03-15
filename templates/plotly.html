@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <title>plotly.js in nw.js</title>
+    <script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
+</head>
+<body>
+    <h1>Testing</h1>
+    <div id="tester" style="width:600px;height:250px;"></div>
+    <script>
+      	TESTER = document.getElementById('tester');
+      	Plotly.newPlot( TESTER, [{
+      	x: [1, 2, 3, 4, 5],
+      	y: [1, 2, 4, 8, 16] }], {
+      	margin: { t: 0 } } );
+    </script>
+    <!-- <script type="text/javascript" src="../p_test.js"></script> -->
+</body>
+</html>
