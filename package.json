@@ -9,6 +9,18 @@
   "author": "pen",
   "license": "ISC",
   "dependencies": {
-    "discord.js": "^12.5.1"
-  }
+    "discord.js": "^12.5.1",
+    "highcharts": "^9.0.1",
+    "unirest": "^0.6.0",
+    "yahoo-stock-prices": "^1.1.0"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/penumbra779/penbot.git"
+  },
+  "bugs": {
+    "url": "https://github.com/penumbra779/penbot/issues"
+  },
+  "homepage": "https://github.com/penumbra779/penbot#readme"
 }

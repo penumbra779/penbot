@@ -1,0 +1,2 @@
+user_id,subreddit,comments
+cclagator,options,posts on expected moves and market volatility
