@@ -9,9 +9,13 @@
   "author": "pen",
   "license": "ISC",
   "dependencies": {
+    "alphavantage": "^2.2.0",
     "discord.js": "^12.5.1",
     "highcharts": "^9.0.1",
+    "moment": "^2.29.1",
+    "nw": "^0.52.0",
     "package.json": "^2.0.1",
+    "plotly": "^1.0.6",
     "unirest": "^0.6.0",
     "yahoo-stock-prices": "^1.1.0"
   },
